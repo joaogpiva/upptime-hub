@@ -14,15 +14,13 @@ status-website:
   # cname: demo.upptime.js.org
   theme: light
   baseUrl: /upptime-hub
-  logoUrl: https://hub2b.com.br/img/hub2b_topo.png
+  logoUrl: https://hub2b.com.br/images/frontend/logo-primary.png
   name: Hub2b
   introTitle: Hub2b Status
   introMessage: Status em tempo real dos serviços da Hub2b
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
