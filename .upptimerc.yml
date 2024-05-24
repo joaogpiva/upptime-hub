@@ -7,6 +7,8 @@ sites:
     url: https://app.hub2b.com.br
   - name: Site quebrado
     url: https://thissitedoesnotexist.koj.co
+  - name: Outro site quebrado
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +18,7 @@ status-website:
   theme: light
   baseUrl: /upptime-hub
   logoUrl: https://hub2b.com.br/images/frontend/logo-primary.png
-  name: Hub2b
+  name: Hub2b Status
   introTitle: Hub2b Status
   introMessage: Status em tempo real dos serviços da Hub2b
   navbar:
