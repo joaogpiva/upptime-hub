@@ -8,8 +8,8 @@ sites:
   - name: Site quebrado
     url: https://thissitedoesnotexist.koj.co
   - name: Outro site quebrado
-    url: https://thissitedoesnotexist.koj.co
-
+    url: https://web.whatsapp.com/
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
