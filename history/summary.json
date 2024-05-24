@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 291,
-    "timeWeek": 291,
-    "timeMonth": 291,
-    "timeYear": 291,
+    "time": 290,
+    "timeDay": 290,
+    "timeWeek": 290,
+    "timeMonth": 290,
+    "timeYear": 290,
     "dailyMinutesDown": {}
   },
   {
@@ -34,28 +34,28 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-24": 851,
+      "2024-05-24": 987,
       "2024-05-23": 315
     }
   },
   {
     "name": "Outro site quebrado",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "url": "https://x.com",
+    "icon": "https://icons.duckduckgo.com/ip3/x.com.ico",
     "slug": "outro-site-quebrado",
-    "status": "down",
-    "uptime": "18.04%",
-    "uptimeDay": "18.04%",
-    "uptimeWeek": "18.04%",
-    "uptimeMonth": "18.04%",
-    "uptimeYear": "18.04%",
-    "time": 475,
-    "timeDay": 475,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
+    "status": "up",
+    "uptime": "2.89%",
+    "uptimeDay": "2.89%",
+    "uptimeWeek": "2.89%",
+    "uptimeMonth": "2.89%",
+    "uptimeYear": "2.89%",
+    "time": 339,
+    "timeDay": 339,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {
-      "2024-05-24": 21
+      "2024-05-24": 157
     }
   }
 ]
