@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 298,
-    "timeWeek": 292,
-    "timeMonth": 292,
-    "timeYear": 292,
+    "time": 303,
+    "timeDay": 468,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   },
   {
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-25": 48,
+      "2024-05-26": 53,
+      "2024-05-25": 1440,
       "2024-05-24": 1440,
       "2024-05-23": 315
     }
@@ -45,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/google.com.br.ico",
     "slug": "outro-site-quebrado",
     "status": "up",
-    "uptime": "76.39%",
-    "uptimeDay": "76.39%",
-    "uptimeWeek": "76.39%",
-    "uptimeMonth": "76.39%",
-    "uptimeYear": "76.39%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "uptime": "92.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "92.59%",
+    "uptimeMonth": "92.59%",
+    "uptimeYear": "92.59%",
+    "time": 318,
+    "timeDay": 311,
+    "timeWeek": 318,
+    "timeMonth": 318,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2024-05-24": 157
     }
