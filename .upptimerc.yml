@@ -29,7 +29,6 @@ i18n:
   url: "URL"
   status: "Status"
   history: "Histórico"
-  responseTime: "Tempo de resposta"
   uptime: "Uptime"
   up: "🟩 Operacional"
   degraded: "🟨 Degradado"
