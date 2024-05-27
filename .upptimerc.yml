@@ -23,7 +23,35 @@ status-website:
   introMessage: Status em tempo real dos serviços da Hub2b
   navbar:
     - title: Status
-      href: /
+      href: /upptime-hub
+
+i18n:
+  url: "URL"
+  status: "Status"
+  history: "Histórico"
+  responseTime: "Tempo de resposta"
+  uptime: "Uptime"
+  up: "🟩 Operacional"
+  degraded: "🟨 Degradado"
+  down: "🟥 Indisponível"
+  responseTimeGraphAlt: "Gráfico do tempo de resposta"
+  ms: "ms"
+  responseTime: "Tempo de resposta"
+  responseTimeDay: "Tempo de resposta (24h)"
+  responseTimeWeek: "Tempo de resposta (7 dias)"
+  responseTimeMonth: "Tempo de resposta (30 dias)"
+  responseTimeYear: "Tempo de resposta (1 ano)"
+  uptime: "Uptime total"
+  uptimeDay: "Uptime (24h)"
+  uptimeWeek: "Uptime (7 dias)"
+  uptimeMonth: "Uptime (30 dias)"
+  uptimeYear: "Uptime (1 ano)"
+  liveStatus: "Status Agora"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 Todos os serviços operacionais"
+  degradedPerformance: "🟨 Performance degradada"
+  completeOutage: "🟥 Indisponibilidade total"
+  partialOutage: "🟧 Indisponibilidade parcial"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
