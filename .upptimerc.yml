@@ -29,7 +29,6 @@ i18n:
   url: "URL"
   status: "Status"
   history: "Histórico"
-  uptime: "Uptime"
   up: "🟩 Operacional"
   degraded: "🟨 Degradado"
   down: "🟥 Indisponível"
