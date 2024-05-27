@@ -26,30 +26,53 @@ status-website:
       href: /upptime-hub
 
 i18n:
-  url: "URL"
-  status: "Status"
-  history: "Histórico"
-  up: "🟩 Operacional"
-  degraded: "🟨 Degradado"
-  down: "🟥 Indisponível"
-  responseTimeGraphAlt: "Gráfico do tempo de resposta"
-  ms: "ms"
-  responseTime: "Tempo de resposta"
-  responseTimeDay: "Tempo de resposta (24h)"
-  responseTimeWeek: "Tempo de resposta (7 dias)"
-  responseTimeMonth: "Tempo de resposta (30 dias)"
-  responseTimeYear: "Tempo de resposta (1 ano)"
-  uptime: "Uptime total"
-  uptimeDay: "Uptime (24h)"
-  uptimeWeek: "Uptime (7 dias)"
-  uptimeMonth: "Uptime (30 dias)"
-  uptimeYear: "Uptime (1 ano)"
-  liveStatus: "Status Agora"
-  liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 Todos os serviços operacionais"
-  degradedPerformance: "🟨 Performance degradada"
-  completeOutage: "🟥 Indisponibilidade total"
-  partialOutage: "🟧 Indisponibilidade parcial"
-
+  activeIncidents: Incidentes ativos
+  allSystemsOperational: Todos os serviços disponíveis
+  incidentReport: "Relatório do incidente #$NUMBER →"
+  activeIncidentSummary: Aberto em $DATE com $POSTS atualizações
+  incidentTitle: Detalhes do incidente $NUMBER
+  incidentDetails: Detalhes do incidente
+  incidentFixed: Resolvido
+  incidentOngoing: Continua
+  incidentOpenedAt: Aberto em
+  incidentClosedAt: Fechado em
+  incidentViewOnGitHub: Ver no GitHub
+  incidentCommentSummary: Postado em $DATE por $AUTHOR
+  incidentBack: ← De volta para os incidentes
+  pastIncidents: Incidentes Passados
+  pastIncidentsResolved: Resolvido em $MINUTES minutos com $POSTS comentários
+  liveStatus: Status Agora
+  overallUptime: "Uptime geral: $UPTIME"
+  overallUptimeTitle: Uptime geral
+  averageResponseTime: "Tempo médio de resposta: $TIMEms"
+  averageResponseTimeTitle: Tempo médio de resposta
+  sevelDayResponseTime: Tempo de resposta (últimos 7 dias)
+  responseTimeMs: Tempo de resposta (ms)
+  up: Disponível
+  down: Indisponível
+  degraded: Degradado
+  ms: ms
+  loading: Carregando
+  navGitHub: GitHub
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+  errorTitle: Um erro ocorreu
+  errorIntro: Um erro ocorreu ao tentar recuperar o status.
+  errorText: Tente novamente em alguns minutos.
+  errorHome: Voltar para a tela inicial
+  pastScheduledMaintenance: Histórico de manutenções
+  scheduledMaintenance: Manutenção agendada
+  scheduledMaintenanceSummaryStarted: Começou em $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Começa em $DATE por $DURATION minutos
+  startedAt: Começou em
+  startsAt: Começa em
+  duration: Duração
+  durationMin: $DURATION minutos
+  incidentCompleted: Completo
+  incidentScheduled: Agendado
+  duration24H: 24h
+  duration7D: 7d
+  duration30D: 30d
+  duration1Y: 1a
+  durationAll: total
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
