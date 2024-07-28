@@ -4,9 +4,9 @@
     "url": "https://app.hub2b.com.br",
     "icon": "https://icons.duckduckgo.com/ip3/app.hub2b.com.br.ico",
     "slug": "plataforma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 401,
     "timeMonth": 346,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 0
+    }
   },
   {
     "name": "Site quebrado",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 58,
+      "2024-07-28": 514,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
