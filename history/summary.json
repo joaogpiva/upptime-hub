@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.hub2b.com.br.ico",
     "slug": "plataforma",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 318,
-    "timeDay": 422,
-    "timeWeek": 390,
-    "timeMonth": 345,
-    "timeYear": 318,
-    "dailyMinutesDown": {
-      "2024-07-28": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 317,
+    "timeDay": 269,
+    "timeWeek": 389,
+    "timeMonth": 343,
+    "timeYear": 317,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Site quebrado",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 520,
+      "2024-07-29": 55,
+      "2024-07-28": 1440,
       "2024-07-27": 1440,
       "2024-07-26": 1440,
       "2024-07-25": 1440,
@@ -116,11 +115,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 317,
-    "timeDay": 569,
-    "timeWeek": 493,
-    "timeMonth": 391,
-    "timeYear": 317,
+    "time": 316,
+    "timeDay": 254,
+    "timeWeek": 509,
+    "timeMonth": 380,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2024-05-24": 157
     }
